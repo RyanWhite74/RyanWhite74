@@ -4,7 +4,7 @@
   
 <h2>🔭 Software Development Projects:</h2>
 <b>
- - [Baby Name Picker](https://github.com/RyanWhite74/Baby-name-picker)
+ - <a href=https://github.com/RyanWhite74/Baby-name-picker>Baby Name Picker</a>
  </b>
 
 <h2>Certifications</h2>
