@@ -4,6 +4,9 @@
   
 <h2>🔭 Software Development Projects:</h2>
   
+<h2>Certifications</h2>
+[Comptia Security+](https://www.credly.com/badges/0ee0c69b-a658-45a0-b264-e33247ad2d3f/public_url)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
