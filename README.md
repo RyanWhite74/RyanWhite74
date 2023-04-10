@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   
-<h2>🔭 Software Development Projects:</h2>
+<h2>🐍 Python Projects:</h2>
 <b><a href=https://github.com/RyanWhite74/Baby-name-picker>Baby Name Picker</a></b>
 
 <h2>📜 Certifications</h2>
