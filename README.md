@@ -6,6 +6,7 @@
   
 <h2>Certifications</h2>
 <a href=https://www.credly.com/badges/0ee0c69b-a658-45a0-b264-e33247ad2d3f/public_url>Comptia Security+</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0ee0c69b-a658-45a0-b264-e33247ad2d3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
 
 <h2> 🤳 Connect with me:</h2>
