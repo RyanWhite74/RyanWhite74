@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 <b>
 <a href=https://github.com/RyanWhite74/Thompson/blob/main/README.md#enroll-beta>Thompson CTF</a>
-<b>
+<b></b>
 <a href=https://github.com/RyanWhite74/Baby-name-picker>Baby Name Picker</a>
 
 <h2>📜 Certifications</h2>
