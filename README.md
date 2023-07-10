@@ -1,6 +1,8 @@
 <h1>Hi, I'm Ryan! 
 <h2>👨‍💻 Projects:</h2>
 <b>
+<a href=https://github.com/RyanWhite74/KaliAWS/blob/main/README.md>A Guide to create kali linux machine using AWS EC2 instance</a>
+<br> 
 <a href=https://github.com/RyanWhite74/Thompson/blob/main/README.md#enroll-beta>Thompson CTF</a>
 <br>
 <a href=https://github.com/RyanWhite74/Baby-name-picker>Baby Name Picker</a>
