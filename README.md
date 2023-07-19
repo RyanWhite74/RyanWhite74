@@ -20,7 +20,7 @@
 
 [<img align="left" img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>][twitter]
 [<img align="left" img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>][linkedin]
-[<img align="left" img width="48" height="48" src="https://img.icons8.com/sf-regular/48/000000/medium-monogram.png" alt="medium-logo"/>][medium]
+[<img align="left" img width="48" height="48" src="https://img.icons8.com/color-glass/48/medium-logo.png" alt="medium-logo"/>][medium]
 
 [twitter]: https://twitter.com/RyanAWhite74
 [linkedin]: https://www.linkedin.com/in/ryan-white-a4a071283
