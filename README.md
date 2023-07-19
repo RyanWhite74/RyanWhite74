@@ -24,4 +24,4 @@
 
 [twitter]: https://twitter.com/RyanAWhite74
 [linkedin]: https://www.linkedin.com/in/ryan-white-a4a071283
-[medium]: https://medium.com/@ryan.a.white1995
+[medium]: https://medium.com/@ryanawhite74
