@@ -13,7 +13,7 @@
 <a href=https://medium.com/@ryanawhite74/phishing-101-dc17de92e80>Phishing 101</a>
 
 <h2>📜 Certifications</h2>
-<b><a href=https://www.credly.com/badges/0ee0c69b-a658-45a0-b264-e33247ad2d3f/public_ur/l>CompTIA Security+</a></b>
+<b><a href=https://www.credly.com/badges/0ee0c69b-a658-45a0-b264-e33247ad2d3f/public_url>CompTIA Security+</a></b>
   
 
 <h2> 📱 Connect with me:</h2>
