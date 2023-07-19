@@ -18,7 +18,10 @@
 
 <h2> 📱 Connect with me:</h2>
 
-[<img align="left" alt="RyanAWhite74 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>][twitter]
+[<img align="left" img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>][linkedin]
+[<img align="left" img width="48" height="48" src="https://img.icons8.com/sf-regular/48/000000/medium-monogram.png" alt="medium-logo"/>][medium]
 
 [twitter]: https://twitter.com/RyanAWhite74
+[linkedin]: https://www.linkedin.com/in/ryan-white-a4a071283
+[medium]: https://medium.com/@ryan.a.white1995
