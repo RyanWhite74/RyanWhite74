@@ -10,7 +10,8 @@
 <a href=https://github.com/RyanWhite74/Baby-name-picker>Baby Name Picker</a>
 <br>
 <h2>☕️ Medium Articles</h2>
-<a href=https://medium.com/@ryanawhite74/understanding-dos-and-ddos-attacks-the-internets-silent-assassins-dd367700a167>Phishing 101</a>
+<a href=https://medium.com/@ryanawhite74/understanding-dos-and-ddos-attacks-the-internets-silent-assassins-dd367700a167>Understanding DoS and DDoS Attacks: The Internet’s Silent Assassins</a>
+<br>
 <a href=https://medium.com/@ryanawhite74/phishing-101-dc17de92e80>Phishing 101</a>
 
 
