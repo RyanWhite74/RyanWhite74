@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ryan!</h1>
 <br>
+IT & Cyber Manager | Cyber Security Student at Full Sail University | eJPT | CompTIA Security+ | Secret Security Clearance
+<br>
 <h2>☁️ Cloud Projects</h2>
 <a href=https://github.com/RyanWhite74/KaliAWS/blob/main/README.md>Create a kali linux machine using an AWS EC2 instance</a>
 <br> 
