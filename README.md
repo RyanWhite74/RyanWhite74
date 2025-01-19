@@ -17,6 +17,7 @@
 
 <h2>📜 Certifications</h2>
 <a href=https://www.credly.com/badges/0ee0c69b-a658-45a0-b264-e33247ad2d3f/public_url>CompTIA Security +
+  <br>
 <a href=https://certs.ine.com/6cc4c91a-3dd9-4e1f-9bd3-83309d9d00a3#acc.8NjTDI9z>eJPTv2
   
 <br>
