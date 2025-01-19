@@ -27,5 +27,5 @@
 [<img align="left" img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>][linkedin]
 [<img align="left" img width="48" height="48" src="https://img.icons8.com/color-glass/48/medium-logo.png" alt="medium-logo"/>][medium]
 
-[linkedin]: www.linkedin.com/in/ryanwhite74
+[linkedin]: https://www.linkedin.com/in/ryanwhite74
 [medium]: https://medium.com/@ryanawhite74
