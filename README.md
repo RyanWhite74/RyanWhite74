@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ryan!</h1>
 <br>
 <h2>☁️ Cloud Projects</h2>
-<a href=https://github.com/RyanWhite74/KaliAWS/blob/main/README.md>A Guide to create a kali linux machine using AWS EC2 instance</a>
+<a href=https://github.com/RyanWhite74/KaliAWS/blob/main/README.md>Create a kali linux machine using an AWS EC2 instance</a>
 <br> 
 <h2>🏴‍☠️ CTFs</h2>
 <a href=https://github.com/RyanWhite74/Thompson/blob/main/README.md#enroll-beta>Thompson CTF</a>
